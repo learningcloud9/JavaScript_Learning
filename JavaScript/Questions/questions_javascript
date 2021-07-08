@@ -1,0 +1,22 @@
+What is DOM (HTML structure) ?
+Where does JS runs ?
+What is react JS?
+Why do we need a reactJS?
+What is modal in JS?
+What are the steps required to create a JS function?
+What are alternatives of react JS?  - Angular JS
+what are arrow function?
+what is named import and defaut export/import?
+what is the syntax to use an alias while importing a named value?
+what if you don't create a constructor in the JavaScript class ?
+what is the use of super method?
+
+where do you use spread(...) operator and Rest operator?
+show the results
+const number = [1,2,3];
+const newnumber = [number,4];
+const newnumber1 = [...number,4];
+
+difference between spread and destructuring?
+
+difference between primitive and non primitive data structure in JS? how can you save the object by not using the pointer reference but by using the actual object value only. 
